@@ -1,4 +1,4 @@
 all : 
-	gcc check.c -o yes
+	gcc check.c -o yes.out
 run:
-	./yes
+	./yes.out
